@@ -71,7 +71,7 @@
 
 <h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
  
-  <a href="https://github.com/divyanshi2408"></a>
+  <a href="https://github.com/shocker-lov-t"></a>
     [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi2408&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/Divyanshi2408/github-readme-activity-graph)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi2408&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="divyanshi2408" /></p>
@@ -82,5 +82,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi2408&&theme=tokyonight" alt="divyanshi2408" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shocker-lov-t&&theme=tokyonight" alt="shocker-lov-t" /></p>
 
