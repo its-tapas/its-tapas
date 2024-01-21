@@ -1,4 +1,5 @@
-![Black Technology LinkedIn Banner (1)](![image](https://github.com/Shocker-lov-t/Shocker-lov-t/assets/98687345/0d697290-a677-4545-9df5-be7747fb3e3d)
+![Black Technology LinkedIn Banner (1)]![Tapas Singhal](https://github.com/Shocker-lov-t/Shocker-lov-t/assets/98687345/e0a3a24d-6bd8-419f-99f6-9e1a1dd5d791)
+
 )
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
