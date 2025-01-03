@@ -81,7 +81,7 @@
   <a href="https://github.com/its-tapas"></a>
     [![Tapas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-tapas&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/shocker-lov-t/github-readme-activity-graph)
 
-<table style="width: 100%; height: 200px; text-align: center; border: 5px solid black; border-collapse: collapse;">
+<table align="center" border="1" style="width: 100%; height: 200px; text-align: center; border: 5px solid black; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: middle; border: 5px solid black;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-tapas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="its-tapas" />
