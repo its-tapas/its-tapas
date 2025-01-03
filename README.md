@@ -35,9 +35,6 @@
     <a href="https://x.com/tapaslov" target="_blank">
     <img alt="Twitter/X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a> 
-    <a href="https://discordapp.com/users/681456057910165534" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
 <a href="https://t.me/tapas_lov" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a> 
