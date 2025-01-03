@@ -26,11 +26,11 @@
 
 <h3 align="left">Connect with me:</h3>
  
-<a href="https://www.linkedin.com/in/tapas-singhal-b1380521a" target="_blank">
+<a href="tapaslov@gmail.com" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
  
-<a href="tapaslov@gmail.com" target="_blank">
+<a href="https://www.linkedin.com/in/tapas-singhal-b1380521a" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 
