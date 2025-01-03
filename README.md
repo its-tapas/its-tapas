@@ -82,13 +82,11 @@
     [![Tapas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-tapas&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/shocker-lov-t/github-readme-activity-graph)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-tapas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="its-tapas" /></p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=its-tapas&show_icons=true&locale=en&theme=tokyonight" alt="its-tapas" />      <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-tapas&&theme=tokyonight" alt="its-tapas" />
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=its-tapas&show_icons=true&locale=en&theme=tokyonight" alt="its-tapas" />    </p>
+<p align="center">img src="https://github-readme-streak-stats.herokuapp.com/?user=its-tapas&&theme=tokyonight" alt="its-tapas" >
   </p>
 
-<p align=<"center">
 
   Total Views on Profile:<br><br>
 ![Visitor Count](https://profile-counter.glitch.me/its-tapas/count.svg)
 
-</p>
