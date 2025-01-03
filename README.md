@@ -88,9 +88,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-tapas&show_icons=true&locale=en&theme=tokyonight" alt="its-tapas" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-tapas&show_icons=true&locale=en&theme=tokyonight" alt="its-tapas" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-tapas&&theme=tokyonight" alt="its-tapas" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-tapas&&theme=tokyonight" alt="its-tapas" /></p>
 
