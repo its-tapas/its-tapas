@@ -89,8 +89,11 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-tapas&&theme=tokyonight" alt="its-tapas" /></p>
-
-Total Views on Profile:<br><br>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=its-tapas&show_icons=true&locale=en&theme=tokyonight" alt="its-tapas" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=its-tapas&&theme=tokyonight" alt="its-tapas" />
+  
+<br><br>Total Views on Profile:<br><br>
 ![Visitor Count](https://profile-counter.glitch.me/its-tapas/count.svg)
+</p>
+
+
 
