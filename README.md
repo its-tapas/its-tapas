@@ -73,7 +73,7 @@
 <h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
  
   <a href="https://github.com/its-tapas"></a>
-    [![Tapas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shocker-lov-t&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/shocker-lov-t/github-readme-activity-graph)
+    [![Tapas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-tapas&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/shocker-lov-t/github-readme-activity-graph)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-tapas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="its-tapas" /></p>
 
