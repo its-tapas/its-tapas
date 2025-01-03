@@ -81,9 +81,15 @@
   <a href="https://github.com/its-tapas"></a>
     [![Tapas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-tapas&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/shocker-lov-t/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-tapas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="its-tapas" />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=its-tapas&show_icons=true&locale=en&theme=tokyonight" alt="its-tapas">
-  </p>
+<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-tapas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="its-tapas" />
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=its-tapas&show_icons=true&locale=en&theme=tokyonight" alt="its-tapas">
+  </div>
+</div>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=its-tapas&&theme=tokyonight" alt="its-tapas">
   </p>
 
