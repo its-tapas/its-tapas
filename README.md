@@ -69,9 +69,6 @@
        <a>
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
   </a> 
-   <a>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
     <img alt="Git" src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white">
    </a>
   </p>
