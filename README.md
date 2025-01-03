@@ -25,21 +25,23 @@
                                                 
 
 <h3 align="left">Connect with me:</h3>
- 
-<a href="tapaslov@gmail.com" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
- 
+  
 <a href="https://www.linkedin.com/in/tapas-singhal-b1380521a" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+<a href="tapaslov@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+   
+<a href="https://t.me/tapas_lov" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a> 
+
+
+  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <p>
- <a>
-    <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-  
-  </a>
   <a>
     <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
   
@@ -57,9 +59,6 @@
    <a>
     <img alt="Git" src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white">
    </a>
-    <a>
-    <img alt="Github" src="https://img.shields.io/badge/-GitHub-brown?style=for-the-badge&logo=github&logoColor=white">
-  </a>
       <a>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
