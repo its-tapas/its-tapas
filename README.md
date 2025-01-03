@@ -50,31 +50,30 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <p>
-  <a>
-    <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
-  
    <a>
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
-  </a>
-    <a>
     <img alt="Java" src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=white">
+  </a><a>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>      <a>
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   </a>
     <a>
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=AWS&logoColor=orange">
   </a>
      <a>
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-green?style=for-the-badge&logo=googleclod&logoColor=white">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
    <a>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white">
-   </a>
-      <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <a>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   </a>
        <a>
-    <img alt="Django" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-  </a>       <a>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  </a> 
+   <a>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white">
+   </a>
 
 
   </p>
