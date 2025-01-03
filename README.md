@@ -35,7 +35,12 @@
 <a href="https://t.me/tapas_lov" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a> 
-
+<a href="https://www.instagram.com/its-tapas" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
+  <a href="https://x.com/tapaslov" target="_blank">
+    <img alt="Twitter/X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a> 
 
   
 
