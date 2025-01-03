@@ -95,5 +95,5 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-tapas&&theme=tokyonight" alt="its-tapas" /></p>
 
 Total Views on Profile:<br><br>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-tapas)
+![Visitor Count](https://profile-counter.glitch.me/its-tapas/count.svg)
 
