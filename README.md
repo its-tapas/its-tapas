@@ -1,4 +1,5 @@
-![Tapas Singhal](https://github.com/Shocker-lov-t/Shocker-lov-t/assets/98687345/e0a3a24d-6bd8-419f-99f6-9e1a1dd5d791)
+
+![Tapas Singhal](https://github.com/user-attachments/assets/b37f1773-3831-4008-9706-a87c29334bc2)
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
