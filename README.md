@@ -29,7 +29,7 @@
   <a href="tapaslov@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
-<a href="https://www.linkedin.com/in/tapas-singhal-b1380521a" target="_blank">
+<a href="https://www.linkedin.com/in/tapas-singhal" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
     <a href="https://x.com/tapaslov" target="_blank">
@@ -38,7 +38,7 @@
 <a href="https://t.me/tapas_lov" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a> 
-<a href="https://www.instagram.com/its-tapas" target="_blank">
+<a href="https://www.instagram.com/tapas_lov" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
 
