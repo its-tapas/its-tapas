@@ -100,5 +100,5 @@
 
 
   Total Views on Profile:<br><br>
-<img src="https://profile-counter.deno.dev/profile-count-repo/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
+<img src="https://its-tapas.deno.dev/its-tapas/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
 
