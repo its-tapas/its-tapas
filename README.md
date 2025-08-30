@@ -100,5 +100,5 @@
 
 
   Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/its-tapas/count.svg)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-tapas)
 
