@@ -17,7 +17,7 @@
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
-🎓  I'm currently studying Computer Science and engineering at VIT Bhopal University  
+🎓  Completed my Bachelor of Technology in Computer Science and engineering at VIT Bhopal University  
 
 🌱  I'm on track for learning more about DevOps, Systems Design, and Cloud Architecture.
 
