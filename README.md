@@ -100,5 +100,5 @@
 
 
   Total Views on Profile:<br><br>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-tapas)
+<img src="https://its-tapas.deno.dev/profile-count-repo/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
 
