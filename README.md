@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/tapas-singhal" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-    <a href="https://x.com/tapaslov" target="_blank">
+    <a href="https://x.com/TapasLov" target="_blank">
     <img alt="Twitter/X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a> 
 <a href="https://t.me/tapas_lov" target="_blank">
